@@ -36,3 +36,23 @@ Saturday, 9 AM to 12 Noon and 2 PM to 5 PM
 - Convolutional Neural Networks
     - Kernels (some famous ones), Strides, etc.
 - Image Classification on CIFAR10
+
+## Day 3
+Saturday, 9 AM to 12 Noon and 2 PM to 5 PM
+
+### [Session 5](/Session_5/)
+
+- Introduction to Natural Language Processing
+    - Stemming
+    - Lemmatization
+    - Tokenization
+    - Text Embeddings 
+- Recurrent Neural Networks
+- Music Generation
+
+### [Session 6](/Session_6/)
+
+- Generative Modelling
+- Simple Digit Generation GAN
+- Extra Discussion
+- Random Topics / Internships/ Placements/ Ask us anything
